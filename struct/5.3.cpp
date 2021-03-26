@@ -111,8 +111,4 @@ int main()
 	s1 = skos1(a);
 
 	cout << k << w << s1;
-
-
-
-
 }
