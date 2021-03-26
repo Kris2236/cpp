@@ -1,2 +1,2 @@
 # cpp
-This repository includes siple data structures and cpp math algorithms.
+This repository includes simple data structures and cpp math algorithms.
